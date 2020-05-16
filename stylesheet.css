@@ -1,0 +1,78 @@
+.title {
+  color: #02ccba;
+}
+
+
+header{
+  height:50px;
+  background-color: black;
+}
+.header-left{
+  font-size:30px;
+  color:white;
+  padding-left:10px;
+  padding-top:5px;
+  float:left;
+}
+.header-right{
+  float:right;
+  display:inline-block;
+  background-color: rgba(255,255,255,0.5);
+  height:50px;
+  width:200px;
+  line-height: 50px;
+  text-align:center;
+}
+
+
+.top-wrapper{
+  background-image:url(https://i.imgur.com/ho4XjUV.jpg);
+  background-size:cover;
+  height:600px;
+  padding:100px 0;
+  text-align: center;
+}
+.top-wrapper h1{
+  font-size:100px;
+  text-align:center;
+  color:white;
+  opacity:0.8;
+  font-style: italic;
+  font-family: sans-serif;
+  letter-spacing: 10px;
+}
+.top-wrapper p{
+  font-size:40px;
+  text-align:center;
+  opacity:0.9;
+  color: white;
+}
+.top-wrapper a{
+  display:inline-block;
+  height:30px;
+  width:200px;
+  background-color:lightblue;
+  color:white;
+  text-align: center;
+}
+.information h2{
+  font-size:40px;
+}
+.information{
+  background-color: #f7f7f7;
+  padding:20px 40px;
+}
+.information h3{
+  font-size:30px;
+}
+.information li{
+  font-size:20px;
+}
+.message-wrapper{
+  text-align: center;
+  background-color: lightgreen;
+  padding:20px 0;
+}
+.message-wrapper p{
+  font-size:30px;
+}
